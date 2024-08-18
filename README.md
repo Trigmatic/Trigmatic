@@ -1,6 +1,9 @@
 ### Hi there, I am Abdulmajid Osumanu👋
 
-I am a data scientist with a PhD in Applied Mathematics, also an experienced DevOps Engineer. I am skilled in complex mathematical models, statistical methods, and optimization techniques. With extensive experience in deploying scalable data science solutions on cloud platforms and a strong background in statistical analysis and data visualization, I'm dedicated to delivering data-driven solutions that enhance business outcomes to solve real-world challenges.
+<!-- I am a data scientist with a PhD in Applied Mathematics, also an experienced DevOps Engineer. I am skilled in complex mathematical models, statistical methods, and optimization techniques. With extensive experience in deploying scalable data science solutions on cloud platforms and a strong background in statistical analysis and data visualization, I'm dedicated to delivering data-driven solutions that enhance business outcomes to solve real-world challenges.
+
+-->
+I'm a data scientist with a PhD in Applied Mathematics and a strong DevOps background. I specialize in building and deploying scalable data science solutions on cloud platforms, leveraging complex mathematical models, statistical methods, and optimization techniques. My expertise in statistical analysis and data visualization drives actionable insights and effective solutions for real-world business challenges.
 
 <!--
 
