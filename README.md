@@ -12,7 +12,10 @@ I'm a data scientist with a PhD in Applied Mathematics and a strong DevOps backg
 - 👯 I'm seeking opportunities to collaborate on open-source projects and develop innovative AI solutions.
 - 💬 Ask me about Python, SQL, Data Science, Machine Learning, DevOps, Cloud Computing.  
 - 📫 How to reach me via email: abosumanu236@gmail.com
-- ⚡ Fun fact: I enjoy watching and playing soccer, in addition to exploring new technologies. 
+- ⚡ Fun fact: I enjoy watching and playing soccer, in addition to exploring new technologies.
+
+### Programming Languages and Tools 
+Python R RStudio 
 
 
 
