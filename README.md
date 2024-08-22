@@ -7,6 +7,7 @@ I'm a data scientist with a PhD in Applied Mathematics and a strong DevOps backg
 
 
 ### About Me
+- 📍 I'm based in Canada and open to remote opportunities or relocation.
 - 🌱 I'm currently advancing my knowledge in the use of analytics tools to generate insights for solving business problems, while also deepening my expertise in Generative AI and Large Language Models (LLMs). 
 - 👯 I'm seeking opportunities to collaborate on open-source projects and develop innovative AI solutions.
 - 💬 Ask me about Python, SQL, Data Science, Machine Learning, DevOps, Cloud Computing.  
