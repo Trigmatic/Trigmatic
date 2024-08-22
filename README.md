@@ -14,9 +14,9 @@ I'm a data scientist with a PhD in Applied Mathematics and a strong DevOps backg
 - 📫 How to reach me via email: abosumanu236@gmail.com
 - ⚡ Fun fact: I enjoy watching and playing soccer, in addition to exploring new technologies.
 
-### Programming Languages and Tools 
+<!-- ### Programming Languages and Tools 
 Python R RStudio 
-
+-->
 
 
 <!--
